@@ -1,4 +1,4 @@
 ---
-layout: balu
+layout: 404u
 ---
 
